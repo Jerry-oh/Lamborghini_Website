@@ -1,0 +1,126 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+h1{
+  font-family: "Montserrat black900",sans-serif;
+}
+
+p{
+  font-size: 20px;
+  line-height: 2;
+  font-family: "Ubuntu";
+}
+
+
+nav{
+  padding: 10px;
+  background-color: #000957;
+}
+
+.ml{
+  margin-left: auto;
+  margin-right: 50px;
+}
+
+.justi{
+  padding-left: 50px;
+}
+
+/* car section */
+
+.myCar{
+  background-color: #194350;
+  width: auto;
+  height: auto;
+  text-align: left;
+  display: inline-block;
+}
+
+/* First class */
+
+.firstClass{
+  display: block;
+  width: 50%;
+  padding: 40px 0 40px 30px;
+  float: left;
+}
+
+.avenImage{
+  margin-right: 20px;
+  height: 330px;
+  width: 500px;
+  float: left;
+}
+
+.Desc{
+  font-size: 1rem;
+  font-family: "Montserrat-black900",sans-serif;
+  font-weight: 300;
+  color: #fff;
+  line-height: 2;
+}
+
+.avenButton{
+  margin-left: 125px;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+.avenButton2{
+  margin-top: 25px;
+}
+
+/* Second class */
+
+.secondClass{
+  position: relative;
+  text-align: center;
+  display: block;
+  padding: 40px 0 40px 30px;
+  width: 50%;
+  float: right;
+}
+
+.avenImage2{
+  margin-bottom: 10px;
+  height: 330px;
+  width: 500px;
+}
+
+.inputButton{
+  position: absolute;
+  left: 39%;
+  bottom: 5px;
+}
+
+/* Second features */
+.myProduct{
+  text-align: center;
+  padding-top: 40px;
+}
+
+.myText{
+  margin-top: 10px;
+}
+
+.productImg{
+  height: 140px;
+}
+
+/* Contact */
+
+.contactUs{
+  margin-top: 100px;
+  padding: 80px 0 80px 0;
+  color: white;
+  text-align: center;
+  /* background-color: #194350; */
+  background-image: url(images/box.jpg);
+  object-fit: cover;
+}
+
+.textDeco{
+  text-decoration: none;
+  color: white;
+}
